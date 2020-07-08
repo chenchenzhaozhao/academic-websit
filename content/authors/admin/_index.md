@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 辰辰＆钊钊
+title: 姝姝＆钊钊
 
 # Username (this should match the folder name)
 authors:
@@ -70,7 +70,7 @@ user_groups:
 - Visitors
 ---
 
-辰辰＆钊钊的幸福小屋！！！哒！~
+姝姝＆钊钊的幸福小屋！！！哒！~
 
 
-遇到你，我很幸运
+永远爱你！只爱你一人，一生一世！
